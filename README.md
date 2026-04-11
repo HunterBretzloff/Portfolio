@@ -1,6 +1,6 @@
 ## Hi My Name is Hunter Bretzloff!
 
-## Certifications of completion
+## Certificates of Completion
 
 | Certification | Issuer | Date Issued | Proof |
 |---|---|---|---|
