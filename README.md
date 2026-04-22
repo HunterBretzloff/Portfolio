@@ -1,4 +1,5 @@
 ## Hi My Name is Hunter Bretzloff!
+My technical portfolio featuring certifications, Python practice projects, and future software, networking, and cybersecurity work.
 
 ## Certificates of Completion
 
