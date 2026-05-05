@@ -22,7 +22,7 @@ I am an IT student with a growing interest in programming, cybersecurity, networ
 | Love_Calculator | Python Practice | [View Code](./projects/python_practice/love_calculator/) |
 | Band_Name_Generator | Python Practice | [View Code](./projects/python_practice/band_name_generator/) |
 | Tip_Calculator | Python Practice | [View Code](./projects/python_practice/tip_calculator) |
-| Love Calculator | Python Practice | [View Code](./projects/python_practice/love_calculator/) |
+| python-space-adventure | Python Practice | [View Code](./projects/python_practice/python-space-adventure) |
 
 ## Featured Projects
 ## Skills
