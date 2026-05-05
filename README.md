@@ -20,6 +20,9 @@ I am an IT student with a growing interest in programming, cybersecurity, networ
 |---|---|---|
 | Caesar Cipher | Python Practice | [View Code](./projects/python_practice/caesar_ciph3r/Caesar_Ciph3r.py) |
 | Love Calculator | Python Practice | [View Code](./projects/python_practice/love_calculator/) |
+| Love Calculator | Python Practice | [View Code](./projects/python_practice/love_calculator/) |
+| Love Calculator | Python Practice | [View Code](./projects/python_practice/love_calculator/) |
+| Love Calculator | Python Practice | [View Code](./projects/python_practice/love_calculator/) |
 
 ## Featured Projects
 ## Skills
