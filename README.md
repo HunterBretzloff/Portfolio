@@ -18,10 +18,10 @@ I am an IT student with a growing interest in programming, cybersecurity, networ
 
 | Project | Type | Link |
 |---|---|---|
-| Caesar Cipher | Python Practice | [View Code](./projects/python_practice/caesar_ciph3r/Caesar_Ciph3r.py) |
-| Love Calculator | Python Practice | [View Code](./projects/python_practice/love_calculator/) |
-| band_name_generator | Python Practice | [View Code](./projects/python_practice/band_name_generator/) |
-| Love Calculator | Python Practice | [View Code](./projects/python_practice/love_calculator/) |
+| Caesar_Cipher | Python Practice | [View Code](./projects/python_practice/caesar_ciph3r/Caesar_Ciph3r.py) |
+| Love_Calculator | Python Practice | [View Code](./projects/python_practice/love_calculator/) |
+| Band_Name_Generator | Python Practice | [View Code](./projects/python_practice/band_name_generator/) |
+| Tip_Calculator | Python Practice | [View Code](./projects/python_practice/tip_calculator) |
 | Love Calculator | Python Practice | [View Code](./projects/python_practice/love_calculator/) |
 
 ## Featured Projects
