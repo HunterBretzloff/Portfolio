@@ -23,10 +23,8 @@ I am an IT student with a growing interest in programming, cybersecurity, networ
 | Band_Name_Generator | Python Practice | [View Code](./projects/python_practice/band_name_generator/) |
 | Tip_Calculator | Python Practice | [View Code](./projects/python_practice/tip_calculator) |
 | python-space-adventure | Python Practice | [View Code](./projects/python_practice/python-space-adventure) |
-| python-space-adventure | Python Practice | [View Code](./projects/python_practice/python-space-adventure) |
+| rock-paper-scissors | Python Practice | [View Code](./projects/python_practice/rock-paper-scissors) |
 
-
-projects/python_practice/python-space-adventure
 
 ## Featured Projects
 ## Skills
